@@ -1,16 +1,15 @@
 <p align="center">
-  <img 
-    src="assets/munazum-logo.png" 
-    alt="Munazum Logo"
-    style="max-width: 100%; height: auto;"
-  />
+  <img src="assets/munazum-logo.png" alt="Munazum Logo" width="100%"/>
 </p>
 
-<h1 align="center" style="font-size: 3em;">🗂️ Munazum</h1>
+<h1 align="center">📁 Munazum</h1>
 
 <p align="center">
   <strong>A safe, intelligent CLI for organising real-world folders</strong>
 </p>
+
+---
+
 
 ---
 
