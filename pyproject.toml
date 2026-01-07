@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "munazum"
+version = "0.1.0"
+description = "Personal productivity and organisation CLI"
+authors = [{ name = "Abdullah Bahamish", email = "abdullah.h.bahamish@email.com"}]
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["munazum"]

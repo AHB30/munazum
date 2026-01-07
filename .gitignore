@@ -1,14 +1,15 @@
-# Python
 __pycache__/
 *.pyc
+*.pyo
+
+.env
+.venv/
+venv/
+
+build/
+dist/
+*.egg-info/
+
+.mypy_cache/
 .pytest_cache/
-
-# IDE
-.idea/
-
-# Project-specific
-.munazum_decisions.jsonl
-
-# OS
-.DS_Store
-Thumbs.db
+.cache/
