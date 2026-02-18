@@ -4,8 +4,6 @@
 
 It combines deterministic file rules with assistive machine-learning suggestions while keeping the user fully in control through transparent logging and a strict dry-run mode.
 
-No silent actions. No irreversible operations. No guesswork.
-
 ---
 
 ## Why Munazum?
