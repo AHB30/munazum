@@ -1,22 +1,4 @@
-Below is a corrected and refined `README.md`. Redundancies removed. Structure tightened. Tone professional and consistent.
-
----
-
-```html
-<!-- <p align="centre">
-  <img src="assets/munazum-logo.png" alt="Munazum Logo" width="100%"/>
-</p> -->
-
-<h1 align="centre">Munazum</h1>
-
-<p align="centre">
-  <strong>A safe, intelligent CLI for organising real-world directories</strong>
-</p>
-```
-
----
-
-## What is Munazum?
+## Munazum
 
 **Munazum** is a Python-based command-line tool that analyses and organises cluttered directories (e.g. Downloads) into a clean, predictable structure.
 
@@ -159,6 +141,3 @@ Computer Science student · AI & systems enthusiast
 ## License
 
 MIT License
-
-```
-```
